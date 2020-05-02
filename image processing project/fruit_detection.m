@@ -1,12 +1,11 @@
-%{
-Image Processing Project CSE(468) - 4th year Mechatronics
-Team Number: (8)
-Team members: 1. Ahmed Mohamed Anwar
-              2. Mohamed Ahmed Abd El-Aziz
-              3. Mohamed Khaled Abd El-Tawab
-              4. Mohamed Desoky Abdo
-Project Name: Fruit Detection In Image
-%}
+% Image Processing Project CSE(468) - 4th year Mechatronics
+% Team Number: (8)
+% Team members: 1. Ahmed Mohamed Anwar
+%               2. Mohamed Ahmed Abd El-Aziz
+%               3. Mohamed Khaled Abd El-Tawab
+%               4. Mohamed Desoky Abdo
+%               Project Name: Fruit Detection In Image
+
 clear all;
 close all;
 clc;
